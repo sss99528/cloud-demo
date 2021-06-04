@@ -1,0 +1,7 @@
+server:
+  port: 8002
+#spring setting
+spring:
+  application:
+    name: provide-payment
+#mybatis
