@@ -1,2 +1,4 @@
 /consumer-order/target/classes/
 /eureka-server/target/classes/
+/demo/.mvn/
+/api-common/target
