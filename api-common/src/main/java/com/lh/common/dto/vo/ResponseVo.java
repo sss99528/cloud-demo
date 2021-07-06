@@ -14,7 +14,6 @@ public class ResponseVo <T>{
     private Integer code;//状态码
     private String msg;//消息
     private T data;//数据
-
     public ResponseVo(Integer code,String message){
         this(code,message,null);
     }

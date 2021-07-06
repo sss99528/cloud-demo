@@ -1,2 +1,7 @@
-/consumer-order/target/classes/
-/eureka-server/target/classes/
+/.idea/
+/api-common/target/
+/api-common/api-common.iml
+/web-portal/web-portal.iml
+/provide-payment/provide-payment.iml
+/eureka-server/eureka-server.iml
+/spring-cloud.iml
